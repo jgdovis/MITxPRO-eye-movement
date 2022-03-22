@@ -20,7 +20,7 @@ https://jgdovis.github.io/MITxPRO-eye-movement/
 <!-- Video -->
 <a name="video"></a>
 ## Simulation Video
-https://github.com/jgdovis/MITxPRO-eye-movement/blob/a8d47ded987b1d5738f1c4f5091458397d9d1fce/MP4%20eye-movement%20recording/eyes.mkv
+https://jgdovis.github.io/Simulation-Video-eyes/
 <!-- CONTACT -->
 <a name="conta"></a>
 ## Contact
