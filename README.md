@@ -16,11 +16,11 @@ This MITxPRO project Web page with two eyes that follow the movement of the mous
 <!-- Link Live Demo -->
 ## Link Live Demo
 [Live Eyes Movement]( )
-
+https://jgdovis.github.io/MITxPRO-eye-movement/
 <!-- Video -->
 <a name="video"></a>
 ## Simulation Video
-
+https://github.com/jgdovis/MITxPRO-eye-movement/blob/a8d47ded987b1d5738f1c4f5091458397d9d1fce/MP4%20eye-movement%20recording/eyes.mkv
 <!-- CONTACT -->
 <a name="conta"></a>
 ## Contact
